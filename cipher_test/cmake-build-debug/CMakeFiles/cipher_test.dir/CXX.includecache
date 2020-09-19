@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xuhua/Desktop/cipher_test/main.cpp
+iostream
+-
+map
+-
+vector
+-
+cstdlib
+-
+string
+-
+iomanip
+-
+ctime
+-
+
