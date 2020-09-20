@@ -86,6 +86,8 @@ Using Bruteforce + Frequency Table
 
 一点想法… 按长度，将cipher分割成block， 多线程求space先，然后在找高频字母，反向生成key map。
 
+
+假定 avg length 8， 500/8=62.5 小节， 62.5/19～= 3， 重复三次以上按Space 处理？ 或许不行
 要记得 计算下worst case time
 
 
