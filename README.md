@@ -90,10 +90,16 @@ Using Bruteforce + Frequency Table
 假定 avg length 8， 500/8=62.5 小节， 62.5/19～= 3， 重复三次以上按Space 处理？ 或许不行
 要记得 计算下worst case time
 
+Avg length is 4.7
+
 等下这不就是个streaming cipher嘛 并不
 
 ## Interesting Reference
 
 [Cryptopals crypto challenges](https://cryptopals.com/)
+
 [Stack Exchange](https://crypto.stackexchange.com/)
+
 [Cipher Tools](http://rumkin.com/tools/cipher/)
+
+[Average_English_Word](https://medium.com/@wolfgarbe/the-average-word-length-in-english-language-is-4-7-35750344870f)
