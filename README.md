@@ -82,6 +82,9 @@ Using Bruteforce + Frequency Table
 
 ![](https://github.com/GreyFox-Z/Applied-Cryptography/blob/Project-1/Project%201/Project%2010.png)
 
+可能不行， 106^500 有点大…
+
+
 ## Interesting Reference
 
 [Cryptopals crypto challenges](https://cryptopals.com/)
