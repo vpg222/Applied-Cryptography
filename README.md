@@ -44,7 +44,7 @@ A software implementation of an algorithm that attempt to decrypt a ciphertext c
 
 - Key: a map from each English alphabet letter (lower case) + Space
 
-    + Weighted: based on frequency 
+    + Weighted: based on frequency [DISTINCT]
         * The number of possible keys for this letter
         * map to a randomly chosen number from 0 to 105 
     + the set of random maps from {0,..,26} to a permutation of all numbers in {0,…,105}, grouped in 27 lists, each list having length pre-determined
