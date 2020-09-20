@@ -81,3 +81,9 @@ Given a new ciphertext, to compute the plaintext with a given `english_words.txt
 Using Bruteforce + Frequency Table
 
 ![](Project 1/Project 10.png)
+
+## Interesting Reference
+
+[Cryptopals crypto challenges](https://cryptopals.com/)
+[Stack Exchange](https://crypto.stackexchange.com/)
+[Cipher Tools](http://rumkin.com/tools/cipher/)
