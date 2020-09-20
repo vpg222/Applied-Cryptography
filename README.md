@@ -90,7 +90,7 @@ Using Bruteforce + Frequency Table
 假定 avg length 8， 500/8=62.5 小节， 62.5/19～= 3， 重复三次以上按Space 处理？ 或许不行
 要记得 计算下worst case time
 
-
+等下这不就是个streaming cipher嘛 
 
 ## Interesting Reference
 
