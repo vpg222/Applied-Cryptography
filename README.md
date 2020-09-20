@@ -84,6 +84,11 @@ Using Bruteforce + Frequency Table
 
 可能不行， 106^500 有点大…
 
+一点想法… 按长度，将cipher分割成block， 多线程求space先，然后在找高频字母，反向生成key map。
+
+要记得 计算下worst case time
+
+
 
 ## Interesting Reference
 
