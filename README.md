@@ -80,7 +80,7 @@ Given a new ciphertext, to compute the plaintext with a given `english_words.txt
 
 Using Bruteforce + Frequency Table
 
-![](Project 1/Project 10.png)
+![](https://github.com/GreyFox-Z/Applied-Cryptography/blob/Project-1/Project%201/Project%2010.png)
 
 ## Interesting Reference
 
