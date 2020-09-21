@@ -92,8 +92,11 @@ there is no certain word pattern without sufficient delimiter. Also due to the u
 
 ### Approach #3 Non sense approach
 
-use the whatever the cipher we have perform modulus calculation with 27. Use that to create a raw map.
+1. use the whatever the cipher we have perform modulus calculation with 27. Use that to create a raw map.
 
+2. use this raw map to revert the ciphertext
+
+3. substituition with evaluation
 
 ## How to evaluate the plaintext
 
