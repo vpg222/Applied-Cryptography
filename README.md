@@ -84,15 +84,19 @@ Using Bruteforce + Frequency Table
 
 可能不行， 106^500 有点大…
 
-一点想法… 按长度，将cipher分割成block， 多线程求space先，然后在找高频字母，反向生成key map。
+### Approach #2
+
+Word Pattern
+
+there is no certain word pattern without sufficient delimiter. Also due to the uniform distribution, it is relatively hard to approach in this method
+
+### Approach #3
 
 
-假定 avg length 8， 500/8=62.5 小节， 62.5/19～= 3， 重复三次以上按Space 处理？ 或许不行
-要记得 计算下worst case time
+## How to evaluate the plaintext
 
-Avg length is 4.7
+Using frequency analysis
 
-等下这不就是个streaming cipher嘛 并不
 
 ## Interesting Reference
 
@@ -103,3 +107,5 @@ Avg length is 4.7
 [Cipher Tools](http://rumkin.com/tools/cipher/)
 
 [Average_English_Word](https://medium.com/@wolfgarbe/the-average-word-length-in-english-language-is-4-7-35750344870f)
+
+[Dummy Substitution](https://www.dummies.com/games/cryptograms/cryptography-101-basic-solving-techniques-for-substitution-ciphers/)
