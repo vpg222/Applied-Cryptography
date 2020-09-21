@@ -90,7 +90,9 @@ Word Pattern
 
 there is no certain word pattern without sufficient delimiter. Also due to the uniform distribution, it is relatively hard to approach in this method
 
-### Approach #3
+### Approach #3 Non sense approach
+
+use the whatever the cipher we have perform modulus calculation with 27. Use that to create a raw map.
 
 
 ## How to evaluate the plaintext
