@@ -118,3 +118,5 @@ Using frequency analysis
 [English_word_analysis](https://norvig.com/mayzner.html)
 
 [Frequency_analysis_Including Characters](http://www.fitaly.com/board/domper3/posts/136.html)
+
+[Homophonic Substitution Ciphers](https://summit.sfu.ca/item/18588)
