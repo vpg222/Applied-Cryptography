@@ -114,3 +114,5 @@ Using frequency analysis
 [Average_English_Word](https://medium.com/@wolfgarbe/the-average-word-length-in-english-language-is-4-7-35750344870f)
 
 [Dummy Substitution](https://www.dummies.com/games/cryptograms/cryptography-101-basic-solving-techniques-for-substitution-ciphers/)
+
+[English_word_analysis](https://norvig.com/mayzner.html)
