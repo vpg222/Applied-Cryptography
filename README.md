@@ -116,3 +116,5 @@ Using frequency analysis
 [Dummy Substitution](https://www.dummies.com/games/cryptograms/cryptography-101-basic-solving-techniques-for-substitution-ciphers/)
 
 [English_word_analysis](https://norvig.com/mayzner.html)
+
+[Frequency_analysis_Including Characters](http://www.fitaly.com/board/domper3/posts/136.html)
